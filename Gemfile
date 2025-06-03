@@ -50,4 +50,4 @@ gem "devise", "~> 4.9"
 
 gem "graphql", "~> 2.5"
 
-gem "ruby-lsp", "~> 0.23.14", :group => :development
+gem "ruby-lsp", "~> 0.23.24", :group => :development
